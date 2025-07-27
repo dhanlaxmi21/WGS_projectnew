@@ -1,1 +1,1 @@
-# WGS_projectnew
+# WGS_CPUproject
